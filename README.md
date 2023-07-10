@@ -47,6 +47,7 @@
 - AutoSoup (Ported from [Wurst](https://github.com/Wurst-Imperium/Wurst7/tree))
 - AutoTNT
 - AutoWither (Taken from an [unmerged PR](https://github.com/MeteorDevelopment/meteor-client/pull/1070))
+- Bedrock Miner (Ported from [Bedrock Miner](https://github.com/Bunnui/Fabric-Bedrock-Miner))
 - BlockIn
 - BoatGlitch & BoatPhase (Taken from an [unmerged PR](https://github.com/MeteorDevelopment/meteor-client/pull/814))
 - Boost (Ported from [Cornos](https://github.com/cornos/Cornos/blob/master/src/main/java/me/zeroX150/cornos/features/module/impl/movement/Boost.java))

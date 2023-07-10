@@ -11,6 +11,7 @@
     "GameRendererMixin",
     "LivingEntityMixin",
     "LivingEntityRendererMixin",
+    "MinecraftClientMixin",
     "MultiplayerScreenAccessor",
     "MultiplayerScreenMixin",
     "PlayerEntityMixin",
